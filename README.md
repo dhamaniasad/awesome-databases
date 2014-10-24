@@ -6,6 +6,7 @@ A curated list of awesome databases
 ### Relational Databases
 * [MySQL](http://mysql.com) - MySQL is the world's most popular open source database. 
 * [PostgreSQL](http://www.postgresql.org/) - PostgreSQL is a powerful, open source object-relational database system.
+* [MariaDB](https://mariadb.org/) - An enhanced, drop-in replacement for MySQL.
 
 ### NoSQL Databases
 * [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
